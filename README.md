@@ -7,7 +7,7 @@ Primative DataTypes:
 	3)  Booleans Coding Challenge - NOT PASSED
 	4)  Variables Coding Challenge - NOT PASSED
 	5)  Operators Coding Challenge - NOT PASSED
-	6)  Objects Coding Challenge - NOT PASSED
+	
 
 
 Advanced DataTypes:
@@ -17,3 +17,4 @@ Advanced DataTypes:
 	3)  Functions Coding Challenge - NOT PASSED
 	4)  Calculator Sprint Coding Challenge - NOT PASSED
 	5)  Calculator Testing 123 Coding Challenge	- NOT PASSED
+	6)  Objects Coding Challenge - NOT PASSED
